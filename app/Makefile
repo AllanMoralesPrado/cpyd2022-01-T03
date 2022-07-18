@@ -1,7 +1,7 @@
 # Variables
 CC=gcc
 CFLAGS=-Wall -g3
-LDFLAGS=-lm -lpq
+LDFLAGS=-lm
 MKDIR=mkdir -p
 DEL=rm -fr
 

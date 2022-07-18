@@ -1,4 +1,5 @@
 #include "funciones.h"
+#include <omp.h>
 
 void ValidarArgumentos(int argc){
     if(argc < 3){
